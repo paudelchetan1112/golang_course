@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-func main(){
+func Array(){
 	//syntax
 	//var arrayName [size]datatype
 
