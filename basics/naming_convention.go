@@ -1,5 +1,5 @@
 package main
-func main() {
+func NamingConvention() {
 	//pascalCase
 	//structs, interface, enums
 	//snake_case
