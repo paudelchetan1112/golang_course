@@ -1,0 +1,20 @@
+Logical Operator
+! (logical NOT)
+|| (Logical OR)
+&& (Logical AND)
+
+Bitwise Operator 
+& (bitwise AND)
+| bitwise OR
+&^ (Bit wise clear, AND NOT)
+<< (left shift)
+>>( right shift)
+
+
+comparision Operator
+== (equal to)
+!= Not equal to 
+< (Less than)
+<= (Less than equal to )
+> (greater than)
+>= (greater than equal to )
