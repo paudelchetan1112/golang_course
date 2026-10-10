@@ -5,7 +5,7 @@ import (
 	"math"
 )
 
-func main() {
+func arithmetic_operation() {
 	//variable declaration
 	var a, b int = 10, 3
 	var result int
