@@ -5,7 +5,7 @@ import (
 	"maps"
 )
 
-func main(){
+func Map(){
 	//var m map[keyType]valueType
 
 	//mapVariable:=make(map[keyType]ValueType)
